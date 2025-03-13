@@ -1,2 +1,6 @@
 # Subscription-Tracker-Backend-application
-An backend application using Node , Express and MongoDB
+A backend application using Node , Express and MongoDB
+
+
+first the essentials are setup.
+like dependecies and others
