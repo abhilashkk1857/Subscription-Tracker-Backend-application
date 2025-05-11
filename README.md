@@ -81,12 +81,6 @@ src/
 - `PUT /api/v1/subscriptions/:id` – Update a subscription.
 - `DELETE /api/v1/subscriptions/:id` – Delete a subscription.
 
-## License
-This project is licensed under the ISC License.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
 ## Contact
 For any inquiries or support, please contact [abhilashkk1857](https://github.com/abhilashkk1857).
 
